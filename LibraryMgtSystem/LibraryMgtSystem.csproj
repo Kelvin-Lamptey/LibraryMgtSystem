@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Library.cs" />
     <Compile Include="Models\Book.cs" />
     <Compile Include="Models\GuestMember.cs" />
     <Compile Include="Models\Loan.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="Models\StudentMember.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
