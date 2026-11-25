@@ -44,8 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\GuestMember.cs" />
     <Compile Include="Models\Loan.cs" />
     <Compile Include="Models\Member.cs" />
+    <Compile Include="Models\StaffMember.cs" />
+    <Compile Include="Models\StudentMember.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
